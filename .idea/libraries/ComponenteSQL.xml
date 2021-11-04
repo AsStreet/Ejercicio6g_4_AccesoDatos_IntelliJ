@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ComponenteSQL">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../ComponenteSQL/out/artifacts/ComponenteSQL_jar/ComponenteSQL.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
